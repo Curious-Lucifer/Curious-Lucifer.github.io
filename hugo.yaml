@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://Curious-Lucifer.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 6
