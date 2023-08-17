@@ -3,6 +3,7 @@ author: Curious
 title: "Note : RSA"
 date: 2023-08-04
 math: true
+slug: note-rsa
 categories:
     - Note
 tags:

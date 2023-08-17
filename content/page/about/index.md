@@ -19,6 +19,8 @@ menu:
 - 2022 | AIS3 Pre-Exam | curious | 29th
 
 ### 講者經驗
+- CISCON 2023 x LoTuX 合作議程講者
+- CISCON 2023 x SCIST 合作議程講者
 - Taiwan Holy Young 資訊安全暑訓營 2023 Crypto 講師
 - 2023 SCIST x NHDK x 南 11 校聯合寒訓 資安講師
 - KH_ITLC 高雄資訊社團聯盟 資安講師
@@ -28,12 +30,13 @@ menu:
 
 ## 社群貢獻
 ### 職位
+- [CISCON](https://www.facebook.com/ciscon.tw) 2023 總召組
 - [LoTuX CTF](https://lotuxctf.com) 創辦人
-- [SCIST 南臺灣學生資訊社群](https://scist.org) 第三屆資安總召 & 助教
+- 2023 SCIST x NHDK x 南 11 校聯合寒訓 副召 & 資安助教
+- [SCIST 南臺灣學生資訊社群](https://scist.org) 第三、四屆資安總召 & 助教
 
 ### 其他經歷
 - SCIST WinterCamp 2023 CTF 出題者
-- 2023 SCIST x NHDK x 南 11 校聯合寒訓 副召 & 資安助教
 
 ## 聯絡方式
 - Discord : curious_lucifer
