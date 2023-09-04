@@ -1,6 +1,6 @@
 ---
 author: Curious
-title: "Resouce"
+title: "Resource"
 date: 2023-08-17
 math: true
 slug: resource
