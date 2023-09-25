@@ -95,7 +95,7 @@ def hash_pin(pin: str):
 cookie = f"{int(time.time())}|{hash_pin(pin)}"
 ```
 
-> 因為 PIN 的產生方式是直接從電腦的固定資訊經過一些運算得出，如果可以得知電腦的那些固定資訊，那 PIN 碼就可以直接被計算出來
+> 因為 PIN 的產生方式是直接從電腦的固定資訊經過一些運算得出，如果可以得知電腦的那些固定資訊，那 PIN 碼或 cookie name/value 就可以直接被計算出來
 
 ### Auth
 同樣的也可以從 `werkzeug/debug/__init__.py` 得到 PIN 或 cookie 的驗證邏輯
