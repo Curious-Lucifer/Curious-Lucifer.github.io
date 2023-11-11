@@ -1,7 +1,7 @@
 ---
 author: Curious
 title: "Note : JMP to Opcode"
-date: 2023-11-12
+date: 2023-11-11
 math: true
 slug: note-jmp_to_opcode
 categories:
@@ -21,4 +21,4 @@ tags:
 
 ---
 ## Pwntools
-我們可以在 `asm` 中使用 `jmp .<相對位址>` 來指定要跳到的位址，這邊相對位址一樣可以是負數，且這個相對位址是相對這個 `jmp` instruction 的 address
+我們可以在 `asm` 中使用 `jmp $+<相對位址>`/`jmp $-<相對位址>` 來指定要跳到的位址，這個相對位址也是相對 `jmp` 下一個 instruction 的 address
