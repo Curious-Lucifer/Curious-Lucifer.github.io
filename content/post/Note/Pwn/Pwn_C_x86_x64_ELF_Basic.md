@@ -168,6 +168,7 @@ x64 :
     - `codebase` : print the base address of code
     - `libc` : print the base address of libc
     - `tls` ; print the address of `tls`
-    - `heapinfo` : print some information of heap
+    - `heapinfo` : print heap bin's information
+    - `parseheap` : print heap's information
     - `dump memory <file> <start_addr> <end_addr>` : dump memory (`<start_addr>` ~ `<end_addr>`) to `<file>`
 
