@@ -11,6 +11,7 @@ menu:
 
 ## 資訊安全經歷
 ### CTF
+- 2023 | HTICON CTF Final | Starburst Kiwawa | 8th
 - 2023 | Cyber Offensive and Defensive Exercise | 3rd
 - 2023 | HITCON CTF Qual | Starburst Kiwawa | 33rd
 - 2023 | Crypto CTF | Undefined | 38th
