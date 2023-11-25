@@ -17,6 +17,6 @@ tags:
 - $n = 2$ : 清大、中央
 - $n = 1$ : 臺師大、成大、中山
 
-目前拉麵數：0
+目前拉麵數：2
 
 登記表單：[Link](https://forms.gle/sscw4JszytFjnftb9)
