@@ -7,7 +7,7 @@ slug: note-python_note
 categories:
     - Note
 tags:
-    - Misc
+    - Lang
 ---
 
 ## Scope & Namespace
