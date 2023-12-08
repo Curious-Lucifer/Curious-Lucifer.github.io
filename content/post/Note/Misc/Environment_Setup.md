@@ -19,6 +19,15 @@ git config --global init.defaultBranch master
 ```
 
 ---
+## Pwn
+```bash
+sudo apt install -y gcc gdb git ruby-dev gcc-multilib g++-multilib vim-gtk3 make gawk bison libseccomp-dev tmux wget locales binutils nasm python3-pip libssl-dev
+git clone https://github.com/pwndbg/pwndbg ~/pwndbg && cd ~/pwndbg && ./setup.sh
+git clone https://github.com/scwuaptx/Pwngdb.git ~/Pwngdb && cat ~/Pwngdb/.gdbinit >> ~/.gdbinit && sed -i "s/source ~\/peda\/peda.py//g" ~/.gdbinit
+sudo gem install seccomp-tools one_gadget
+```
+
+---
 ## Pwnbox
 
 ### Directory Structure
