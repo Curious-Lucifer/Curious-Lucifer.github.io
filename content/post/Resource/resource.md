@@ -17,6 +17,7 @@ categories:
 - [C Preprocessor](https://gcc.gnu.org/onlinedocs/cpp/index.html)
 - [Python Classes](https://docs.python.org/3/tutorial/classes.html)
 - [Python Method Resolution Order](https://www.python.org/download/releases/2.3/mro/)
+- [Golang](https://willh.gitbook.io/build-web-application-with-golang-zhtw/02.0/02.1)
 
 ## Misc
 - [ngrok](https://ngrok.com)
