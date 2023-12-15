@@ -25,3 +25,6 @@ categories:
 ## Crypto
 - [Crack MT19937](https://jazzy.id.au/2010/09/22/cracking_random_number_generators_part_3.html)
 
+## Web
+- [DNS Subdomain Enumeration](https://tech-blog.cymetrics.io/posts/crystal/dns-hacking-3/)
+
