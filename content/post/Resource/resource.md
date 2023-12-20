@@ -6,6 +6,8 @@ math: true
 slug: resource
 categories:
     - Resource
+tags:
+    - Resource
 ---
 
 ## Pwn
@@ -18,6 +20,7 @@ categories:
 - [Python Classes](https://docs.python.org/3/tutorial/classes.html)
 - [Python Method Resolution Order](https://www.python.org/download/releases/2.3/mro/)
 - [Golang](https://willh.gitbook.io/build-web-application-with-golang-zhtw/02.0/02.1)
+- [C++ Template](https://www.rocksaying.tw/archives/3641717.html)
 
 ## Misc
 - [ngrok](https://ngrok.com)
@@ -28,3 +31,6 @@ categories:
 ## Web
 - [DNS Subdomain Enumeration](https://tech-blog.cymetrics.io/posts/crystal/dns-hacking-3/)
 
+## Rev
+- [eBPF 簡單使用](https://cloud.tencent.com/developer/article/1970118)
+- [eBPF 實現原理](https://cloud.tencent.com/developer/article/1970119)
