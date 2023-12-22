@@ -912,6 +912,35 @@ def known_high_bits_of_p(n: int, p0: int, epsilon=None):
 ```
 
 ---
+## Broadcast Attack With Linear Padding
+if we know $n_1$, $n_2$, $n_3$, $c_1$, $c_2$, $c_3$ and linear function $f_1$, $f_2$, $f_3$ that
+
+$$
+\begin{cases}
+c_1 \equiv f_1(m) ^ e \pmod {n_1}  \\\\
+c_2 \equiv f_2(m) ^ e \pmod {n_2}  \\\\ 
+... \\\
+c_e \equiv f_3(m) ^ e \pmod {n_e}  \\\\
+\end{cases}
+$$
+
+then we can find a set of $t_i$ that $t_i \equiv 1 \pmod {n_i}$ and $t_i \equiv 0 \pmod {n_j}$ for $i \neq j$ 
+
+let 
+
+$$
+g(x) = \sum_{i=0}^e (t_i \cdot (f_i(x) ^ e - c_i))
+$$
+
+then $m$ will probably be the small root of $g(x) \pmod {\prod n_i}$
+
+### Code
+
+```python
+
+```
+
+---
 ## Franklin-Reiter Related Message Attack
 if we know $m_1, m_2$’s cipher $c_1, c_2$ is encrypted by public key $(n,e)$, and $m_1, m_2$ satisfy $m_2 = f(m_1)$ such $f$ is a polynomial on modulo $n$, consider
 
