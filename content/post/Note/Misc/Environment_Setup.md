@@ -86,6 +86,8 @@ RUN ln -s /script/dbg /usr/bin/dbg
 
 WORKDIR /data
 
+ENV PWNBOX=True
+
 CMD ["/bin/fish"]
 ```
 
