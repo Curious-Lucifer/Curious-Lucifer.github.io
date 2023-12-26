@@ -408,13 +408,13 @@ def legendre_symbol(a: int, p: int):
 
 > **Jacobi Symbol :** for any integer $a$ and any positive odd integer $n = {p_1}^{\alpha_1}{p_2}^{\alpha_2}...{p_k}^{\alpha_k}$
 > $$
-> \left\(\frac{a}{n}\right\) = \left\(\frac{a}{p_1}\right\)^{\alpha_1} \left\(\frac{a}{p_2}\right\)^{\alpha_2} ... \left\(\frac{a}{p_k}\right\)^{\alpha_k} = 
-> \begin{cases}
-> 1\qquad &\text{if } \exist x \text{ that } x^2 \equiv a \pmod n \text{ and } a \not\equiv 0 \pmod n \\\\
-> -1\qquad &\text{if } \forall x \text{ that } x^2 \not\equiv a \pmod n \text{ and } a \not\equiv 0 \pmod n \\\\
-> 0\qquad &\text{if } \operatorname{gcd}(a, n) \not = 1
-> \end{cases}
+> \left\(\frac{a}{n}\right\) = \left\(\frac{a}{p_1}\right\)^{\alpha_1} \left\(\frac{a}{p_2}\right\)^{\alpha_2} ... \left\(\frac{a}{p_k}\right\)^{\alpha_k}
 > $$
+>
+> *Properties :*
+> - If $\(\frac{a}{n}\) = -1$ then $a$ is a quadratic nonresidue modulo $n$
+> - If $a$ is a quadratic residue modulo $n$ and $\operatorname{gcd}(a, n) = 1$, then $\(\frac{a}{n}\) = 1$
+> - If $\(\frac{a}{n}\) = 1$ then $a$ may or may not be a quadratic residue modulo $n$
 
 ---
 ## William's p+1 Algorithm
