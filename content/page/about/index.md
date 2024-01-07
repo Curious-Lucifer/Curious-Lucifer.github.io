@@ -11,6 +11,9 @@ menu:
 
 ## 資訊安全經歷
 ### CTF
+- 2024 | AIS3 EOF Qual | Curious | 3rd
+- 2023 | CGGC CTF Qual | StarburstKiwawa | 6st
+- 2023 | 資安技能金盾獎 國高中組 | I4ms0w3ek | 3rd
 - 2023 | HTICON CTF Final | Starburst Kiwawa | 8th
 - 2023 | Cyber Offensive and Defensive Exercise | 3rd
 - 2023 | HITCON CTF Qual | Starburst Kiwawa | 33rd
